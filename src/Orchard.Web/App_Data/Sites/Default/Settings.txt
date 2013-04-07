@@ -1,0 +1,12 @@
+Name: Default
+DataProvider: SqlServer
+DataConnectionString: Server=tcp:wutfwgcqv8.database.windows.net,1433;Database=MyBankNotes;User ID=BankNotesAdmin@wutfwgcqv8;Password=B@nkN0tes;Trusted_Connection=False;Encrypt=True;Connection Timeout=180;
+DataPrefix: null
+RequestUrlHost: null
+RequestUrlPrefix: null
+State: Running
+EncryptionAlgorithm: AES
+EncryptionKey: 3AB7AEB524D80A5B2F6ECD73DB0A0E7D9BDBEE43642C90028CFDC3A9C282ACC8
+HashAlgorithm: HMACSHA256
+HashKey: 3C36B5DE8071EC57C2F2B774DBD2F3723EBBA8662012B1D175D1984767C31B5A621DF206281742F1DBABD2B157F0667C296E65FBCFDA8337FC93BADCE506A96F
+Themes: 
